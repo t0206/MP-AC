@@ -1,0 +1,3 @@
+name: MightyPowerAntiCheat
+version: ${project.version}
+main: mightypoweranticheat.main.mightypoweranticheat.MightyPowerAntiCheat.Main
